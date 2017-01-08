@@ -1,0 +1,23 @@
+{
+  "name": "lspyang",
+  "version": "1.0.0",
+  "description": "lspyang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hllspsd/lspyang.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hllspsd/lspyang/issues"
+  },
+  "homepage": "https://github.com/hllspsd/lspyang#readme",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
+}
