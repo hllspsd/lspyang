@@ -1,1 +1,1 @@
-lspyang
+1. webpack --watch  观察者模式  当webpack.config.js的配置发生变化，如果每次都要手动输入webpack命令来生成js文件的话，显得相对麻烦一些。Webpack为我们提供了观察者模式，启用后，任何的webpack.config.js中的变化将接受观察，自动生成最终的js文件。
